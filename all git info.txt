@@ -1,0 +1,10 @@
+1 git init
+2 git clone folder u wan add
+3 git status
+4 add file in that folder (local mc)
+5 git status
+6 git add
+7 git commit
+8 git remote set-url origin gitfolder url past here
+9 git Push
+10 check on website 
